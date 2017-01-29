@@ -1,4 +1,6 @@
 # Sunucu Hata Konuları Açmadan Önce Gerekenler
+Aşşadakilerini konu açarken uygulamanız zorunlduur, aksi taktirde sorununuzu %100 kesin emin olamayabiliriz.
+
 - Sunucu Sürümü
 - Toplam Eklenti Sayısı
 - Toplam Dünya Sayısı
