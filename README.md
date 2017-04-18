@@ -1,5 +1,5 @@
 # Sunucu Hata Konuları Açmadan Önce Gerekenler
-Aşşadakilerini konu açarken uygulamanız zorunldur, aksi taktirde sorununuzu %100 kesin emin olamayabiliriz.
+Altta yazanları konu açarken uygulamanız zorunludur, aksi taktirde sorununuzun neden kaynaklandığını bulamayız.
 
 - Sunucu Sürümü
 - Toplam Eklenti Sayısı
