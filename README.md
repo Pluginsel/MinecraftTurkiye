@@ -1,6 +1,7 @@
 # Sunucu Hata Konuları Açmadan Önce Gerekenler
 Aşağıda yazan maddeleri konu oluştururken uygulamanız zorunludur. Aksi takdirde sorununuzun neden kaynaklandığını bulamayabiliriz.
 
+- Sorununuz Nedir ?
 - Sunucu Sürümü
 - Toplam Eklenti Sayısı
 - Toplam Dünya Sayısı
